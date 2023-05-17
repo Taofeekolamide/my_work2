@@ -1,0 +1,30 @@
+body {width: 50%;
+      margin: auto;
+      border: 3px solid black;
+      background-color: white;
+      display: block;}
+
+img {width: 95%;
+     margin: auto;
+     display: block;
+     height: 400px;}
+
+html {background-color: black;}
+
+div {border: solid 1px black;
+     width: 94%;
+     margin: auto;
+     display: block;
+     padding: 4px 2px;}
+
+button {background-color: rgb(68, 226, 68);
+        border: none;
+        width: 100%;
+        margin: auto;
+        display: block;
+        height: 30px;}
+
+.ola1 {padding: 10px;
+       border: none;}
+
+h1 {text-align: center;}
